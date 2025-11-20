@@ -8,11 +8,11 @@ A modern, secure PHP-based contact form with JSON storage, real-time validation,
 
 ## Preview
 
-![Image](https://github.com/user-attachments/assets/16c8d5a7-e5f2-4dbb-bcbd-d078bc3c44ac)
+![Image](https://github.com/user-attachments/assets/48c55515-69f2-4a56-a8b2-f327367353b3)
 
 ![Image](https://github.com/user-attachments/assets/cc9ee55e-860e-4dd3-b7cb-c748db1bb569)
 
-![Image](https://github.com/user-attachments/assets/48c55515-69f2-4a56-a8b2-f327367353b3)
+![Image](https://github.com/user-attachments/assets/16c8d5a7-e5f2-4dbb-bcbd-d078bc3c44ac)
 
 ![Image](https://github.com/user-attachments/assets/7168ba39-70e8-4a55-be0f-ee36b75d2156)
 
@@ -91,4 +91,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ### NOTE
 
 The data in 'data/submissions.json' is sample data that was tested by me.
+
 
