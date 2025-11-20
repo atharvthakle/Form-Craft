@@ -46,10 +46,10 @@ A modern, secure PHP-based contact form with JSON storage, real-time validation,
 
     | Field       | Validation Rules                  |
     |-------------|-----------------------------------|
-    | **Name**    | Required, letters and spaces only |
-    | **Email**   | Required, valid format, DNS check |
-    | **Phone**   | Required, exactly 10 digits       |
-    | **Message** | Required, minimum 10 characters   |
+    | Name        | Required, letters and spaces only |
+    | Email       | Required, valid format, DNS check |
+    | Phone       | Required, exactly 10 digits       |
+    | Message     | Required, minimum 10 characters   |
 
 ### Data Structure
 
@@ -79,3 +79,7 @@ Submissions are stored in JSON format:
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+### NOTE
+
+The data in 'data/submissions.json' is sample data that was tested by me.
